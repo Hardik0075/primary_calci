@@ -1,0 +1,28 @@
+h1{
+  background-color: red;
+  color:red;
+}
+body{
+  background-color: gray;
+}
+.card{
+  border: 1px solid white;
+  margin: 5% auto;
+  background-color: black;
+  color: white;
+  padding:5px; 
+}
+
+.btn{
+  padding: 7%;
+  margin-top: 12%;
+  margin-right:7%;
+  font-weight: bolder;
+  font-size: 100%;
+}
+.we{
+  display: inline-block;
+}
+.num{
+  width: 90%;
+}
